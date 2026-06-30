@@ -1,0 +1,11 @@
+Phone screen notes - 2024-11-02
+
+Spoke with Priya Sharma (priya.sharma@gmail.com, +1 415 555 0198) about the
+Staff Backend Engineer role. She's currently based in San Francisco, CA, USA
+but open to remote. Strong hands-on experience with Java, Spring Boot, Kafka,
+and AWS. Mentioned she's been mentoring two juniors on system design.
+
+She also does some open source work - her GitHub is github.com/psharma-dev.
+Comfortable with PostgreSQL and has been picking up Terraform recently.
+
+Next step: onsite loop, focus on distributed systems round.

@@ -1,0 +1,23 @@
+Priya Sharma
+Staff Backend Engineer
+
+priya.sharma@gmail.com | +1-415-555-0198
+San Francisco, CA | linkedin.com/in/priyasharma-eng | github.com/psharma-dev
+
+Summary
+Backend engineer with 8 years of experience building distributed, event-driven
+systems in Java and Spring Boot, with deep PostgreSQL and Kafka experience.
+
+Skills: Java, Spring Boot, PostgreSQL, Kafka, AWS, Kubernetes, Docker, System Design, REST
+
+Experience
+
+Staff Backend Engineer at Initech (Mar 2021 - Present)
+Leads the platform team responsible for the candidate matching service.
+
+Backend Engineer at Globex Corp (Jun 2018 - Feb 2021)
+Built REST APIs on PostgreSQL and AWS, migrated the monolith to microservices.
+
+Education
+
+B.Tech, Indian Institute of Technology Bombay, 2018

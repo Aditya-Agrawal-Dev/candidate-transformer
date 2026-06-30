@@ -1,0 +1,46 @@
+{
+  "candidate": {
+    "fullName": "PRIYA SHARMA",
+    "contact": {
+      "emailAddress": "priya.sharma@gmail.com",
+      "mobile": "4155550198"
+    },
+    "address": {
+      "town": "San Francisco",
+      "state": "California",
+      "nation": "United States"
+    },
+    "summaryHeadline": "Staff Backend Engineer @ Initech",
+    "totalExperienceYears": 8,
+    "skillSet": ["java", "springboot", "postgres", "kafka", "aws", "k8s"],
+    "workHistory": [
+      {
+        "employer": "Initech",
+        "role": "Staff Backend Engineer",
+        "from": "2021-03",
+        "to": "present",
+        "details": "Leads the platform team building event-driven services on Kafka and Spring Boot."
+      },
+      {
+        "employer": "Globex Corp",
+        "role": "Backend Engineer",
+        "from": "2018-06",
+        "to": "2021-02",
+        "details": "Built and operated REST APIs on PostgreSQL and AWS."
+      }
+    ],
+    "academics": [
+      {
+        "school": "Indian Institute of Technology, Bombay",
+        "qualification": "B.Tech",
+        "major": "Computer Science",
+        "graduationYear": 2018
+      }
+    ],
+    "socialLinks": {
+      "linkedIn": "https://www.linkedin.com/in/priyasharma-eng",
+      "gitHub": "https://github.com/psharma-dev",
+      "website": "https://priyasharma.dev"
+    }
+  }
+}
